@@ -31,6 +31,8 @@ Untuk menampilkan aplikasi ini secara online:
    - Pilih source: `Deploy from a branch`
    - Branch: `main` (atau `master`), folder: `/root`
 4. Klik **Save**, lalu tunggu link GitHub Pages aktif (misalnya: `https://rafkaalfazri.github.io/ticketing-webapp/`)
+5. Akses WEB:
+   https://rafkaalfazri.github.io/ticketing-webapp/
 
 ## 🗂️ Struktur File
 index.html
