@@ -30,7 +30,7 @@ Untuk menampilkan aplikasi ini secara online:
    - Buka tab **Settings > Pages**
    - Pilih source: `Deploy from a branch`
    - Branch: `main` (atau `master`), folder: `/root`
-4. Klik **Save**, lalu tunggu link GitHub Pages aktif (misalnya: `https://username.github.io/nama-repo/`)
+4. Klik **Save**, lalu tunggu link GitHub Pages aktif (misalnya: `https://rafkaalfazri.github.io/ticketing-webapp/`)
 
 ## 🗂️ Struktur File
 index.html
